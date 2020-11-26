@@ -16,4 +16,4 @@ name = "pulsectl"
 path = "src/lib.rs"
 
 [dependencies]
-libpulse-binding = { version = "2.14", features = ["pa_v8"] }
+libpulse-binding = { version = "2.16", features = ["pa_v8"] }
